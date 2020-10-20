@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 55: end of line expected.
+    s "1. Abençoado é o homem que não anda no conselho do ímpio, nem fica no caminho dos pecadores, nem se assenta na cadeira dos escarnecedores".
+                                                                                                                                                 ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Thu Oct 15 12:34:10 2020
