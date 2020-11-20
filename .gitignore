@@ -1,5 +1,4 @@
-saves/
-cache/
 *.txt
-saves/*.save
-cache/*
+saves
+cache
+*.save
