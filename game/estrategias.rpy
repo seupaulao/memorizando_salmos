@@ -16,4 +16,23 @@ label estrategia_01:
     p "Estudos mostram que após você falar 100 vezes um texto, ele efetivamente ficará em sua memória."
     return
 
+label estrategia_02:
+    p "Consiste em associar imagens encadeadas e fazer as imagens terem : expressão (forma e tamanho exagerado), movimento, sentido(gosto, cheiro) expressivo."
+    p "Ao colocar imagens encadeadas, tente fazer uma historia na sua mente, mas sempre lembrando que o foco é decorar o verso"
+    return
+
+
+label estrategia_03:
+    p "Usando a abordagem das imagens associadas, vamos tentar visualizar 10 imagens chave para servir de números:"
+    p "0 - ZERO   : ROSQUINHA - imagine uma rosquinha, do sabor que você gosta!"
+    p "1 - UM     : CANETA - aquela esferográfica que você mais usa de tinta azul"
+    p "2 - DOIS   : ESTILINGUE ou baladeira - tem um V no meio, com duas pontas pra cima"
+    p "3 - TRES   : TRIPÉ - imagine um tripé de suporte para uma câmera fotográfica"
+    p "4 - QUATRO : imagine uma cadeira normal, que sempre lhe vem de cabeça, ela deve ter quatro pés"
+    p "5 - CINCO  : imagine sua mão, gigante"
+    p "6 - SEIS   : é um gancho"
+    p "7 - SETE   : precipício ou penhasco ou a boca de um jacaré ou crocodilo aberta - aquele ângulo de penhasco "
+    p "8 - OITO   : imagine o símbolo do infinito mas para ficar melhor: o universo. Uma cena clássica de espaço sideral em sua mente.
+    p "9 - NOVE   : imagine uma bengala ou um um candle colorido de vermelho e branco em forma de bengala"
+    return
 
